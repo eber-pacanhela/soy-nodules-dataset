@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+     <filename>Exp.2 - Lutecia, 35DAE, 2017-2018, T8, R5, P2.jpg</filename>
+     <size>
+          <width>2608</width>
+          <height>4632</height>
+          <depth>3</depth>
+     </size>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1054.3164556962026</xmin>
+               <ymin>896.0632911392406</ymin>
+               <xmax>1099.2531645569622</xmax>
+               <ymax>949.2278481012659</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1055.5822784810127</xmin>
+               <ymin>959.354430379747</ymin>
+               <xmax>1106.2151898734178</xmax>
+               <ymax>1050.493670886076</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1244.8227848101267</xmin>
+               <ymin>1343.5316455696202</ymin>
+               <xmax>1335.3291139240507</xmax>
+               <ymax>1429.607594936709</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1130.2658227848103</xmin>
+               <ymin>1906.8227848101264</ymin>
+               <xmax>1148.6202531645572</xmax>
+               <ymax>1927.0759493670885</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1770.1298701298701</xmin>
+               <ymin>2088.311688311688</ymin>
+               <xmax>1795.4545454545455</xmax>
+               <ymax>2125.3246753246754</ymax>
+          </bndbox>
+     </object>
+</annotation>
