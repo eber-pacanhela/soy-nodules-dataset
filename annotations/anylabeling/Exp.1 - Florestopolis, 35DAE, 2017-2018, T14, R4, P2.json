@@ -1,0 +1,129 @@
+{
+     "version": "0.3.3",
+     "flags": {},
+     "shapes": [
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1808.5714285714284,
+                         1819.2142857142858
+                    ],
+                    [
+                         1909.9999999999998,
+                         1898.5
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1505.7142857142856,
+                         1904.9285714285713
+                    ],
+                    [
+                         1582.1428571428569,
+                         1975.642857142857
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1203.5714285714284,
+                         2034.2142857142856
+                    ],
+                    [
+                         1264.9999999999998,
+                         2104.9285714285716
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1009.9999999999999,
+                         2619.928571428571
+                    ],
+                    [
+                         1086.4285714285713,
+                         2697.0714285714284
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1032.8571428571427,
+                         2474.214285714286
+                    ],
+                    [
+                         1106.4285714285713,
+                         2541.3571428571427
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1040.7142857142856,
+                         2540.642857142857
+                    ],
+                    [
+                         1115.7142857142856,
+                         2584.928571428571
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1037.8571428571427,
+                         2561.3571428571427
+                    ],
+                    [
+                         1117.142857142857,
+                         2618.5
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          }
+     ],
+     "imagePath": "../../images/Exp.1 - Florestopolis, 35DAE, 2017-2018, T14, R4, P2.jpg",
+     "imageData": null,
+     "imageHeight": 4632,
+     "imageWidth": 2608
+}
