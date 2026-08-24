@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+     <filename>Exp.2 - Florestopolis, 35DAE, 2017-2018, T1, R3, P5.jpg</filename>
+     <size>
+          <width>2608</width>
+          <height>4632</height>
+          <depth>3</depth>
+     </size>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1161.2072072072071</xmin>
+               <ymin>1435.81981981982</ymin>
+               <xmax>1187.3333333333333</xmax>
+               <ymax>1479.063063063063</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1233.2792792792793</xmin>
+               <ymin>1877.2612612612613</ymin>
+               <xmax>1271.117117117117</xmax>
+               <ymax>1929.5135135135135</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1354.900900900901</xmin>
+               <ymin>2379.963963963964</ymin>
+               <xmax>1381.9279279279278</xmax>
+               <ymax>2398.882882882883</ymax>
+          </bndbox>
+     </object>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1220.6666666666667</xmin>
+               <ymin>1925.009009009009</ymin>
+               <xmax>1257.6036036036037</xmax>
+               <ymax>1961.045045045045</ymax>
+          </bndbox>
+     </object>
+</annotation>
