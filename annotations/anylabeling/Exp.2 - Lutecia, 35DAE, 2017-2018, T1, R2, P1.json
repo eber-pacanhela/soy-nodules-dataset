@@ -1,0 +1,27 @@
+{
+     "version": "0.3.3",
+     "flags": {},
+     "shapes": [
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1310.0,
+                         1281.0000000000002
+                    ],
+                    [
+                         1341.25,
+                         1312.2500000000002
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          }
+     ],
+     "imagePath": "../../images/Exp.2 - Lutecia, 35DAE, 2017-2018, T1, R2, P1.jpg",
+     "imageData": null,
+     "imageHeight": 4632,
+     "imageWidth": 2608
+}

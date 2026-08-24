@@ -1,0 +1,61 @@
+{
+     "version": "0.3.3",
+     "flags": {},
+     "shapes": [
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         854.6153846153846,
+                         2194.4615384615386
+                    ],
+                    [
+                         964.6153846153845,
+                         2299.076923076923
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1090.551181102362,
+                         1837.6535433070867
+                    ],
+                    [
+                         1124.4094488188975,
+                         1867.5748031496064
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1512.5585585585586,
+                         2717.801801801802
+                    ],
+                    [
+                         1582.8288288288288,
+                         2761.9459459459463
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          }
+     ],
+     "imagePath": "../../images/Exp.2 - Lutecia, 35DAE, 2017-2018, T2, R2, P1.jpg",
+     "imageData": null,
+     "imageHeight": 4632,
+     "imageWidth": 2608
+}
