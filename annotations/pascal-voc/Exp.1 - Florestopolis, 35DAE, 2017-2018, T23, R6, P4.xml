@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+     <filename>Exp.1 - Florestopolis, 35DAE, 2017-2018, T23, R6, P4.jpg</filename>
+     <size>
+          <width>2608</width>
+          <height>4632</height>
+          <depth>3</depth>
+     </size>
+     <object>
+          <name>nodule</name>
+          <bndbox>
+               <xmin>1259.2857142857142</xmin>
+               <ymin>2215.642857142857</ymin>
+               <xmax>1392.142857142857</xmax>
+               <ymax>2347.0714285714284</ymax>
+          </bndbox>
+     </object>
+</annotation>
