@@ -1,4 +1,4 @@
-# SoyNodules Dataset
+# SoyNodules: An Annotated Benchmark Dataset of Soybean Root Nodules for Deep Learning-Based Object Detection
 
 ## Overview
 
