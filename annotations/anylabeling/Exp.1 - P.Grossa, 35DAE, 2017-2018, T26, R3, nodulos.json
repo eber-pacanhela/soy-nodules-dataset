@@ -1,0 +1,690 @@
+{
+     "version": "0.3.3",
+     "flags": {},
+     "shapes": [
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         497.47826086956525,
+                         1456.217391304348
+                    ],
+                    [
+                         638.7826086956521,
+                         1564.913043478261
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         788.7826086956521,
+                         1506.217391304348
+                    ],
+                    [
+                         867.0434782608695,
+                         1586.6521739130435
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         801.8260869565217,
+                         1458.3913043478262
+                    ],
+                    [
+                         923.5652173913044,
+                         1558.3913043478262
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         914.8695652173913,
+                         1517.0869565217392
+                    ],
+                    [
+                         984.4347826086956,
+                         1580.1304347826087
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1054.0,
+                         1506.217391304348
+                    ],
+                    [
+                         1190.9565217391305,
+                         1645.3478260869567
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1299.6521739130435,
+                         1595.3478260869567
+                    ],
+                    [
+                         1380.086956521739,
+                         1697.521739130435
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1404.0,
+                         1510.5652173913045
+                    ],
+                    [
+                         1514.8695652173913,
+                         1630.1304347826087
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1517.0434782608695,
+                         1506.217391304348
+                    ],
+                    [
+                         1640.9565217391305,
+                         1612.7391304347827
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1649.6521739130435,
+                         1499.6956521739132
+                    ],
+                    [
+                         1845.304347826087,
+                         1632.304347826087
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1875.7391304347825,
+                         1680.1304347826087
+                    ],
+                    [
+                         1980.086956521739,
+                         1788.8260869565217
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1938.782608695652,
+                         1943.1739130434783
+                    ],
+                    [
+                         2038.782608695652,
+                         2025.7826086956522
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1954.0,
+                         2123.6086956521744
+                    ],
+                    [
+                         2108.3478260869565,
+                         2262.739130434783
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1697.4782608695652,
+                         2084.4782608695655
+                    ],
+                    [
+                         1825.7391304347825,
+                         2212.739130434783
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1634.4347826086955,
+                         2106.217391304348
+                    ],
+                    [
+                         1732.2608695652173,
+                         2230.130434782609
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1536.6086956521738,
+                         2062.739130434783
+                    ],
+                    [
+                         1647.4782608695652,
+                         2182.3043478260875
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1262.695652173913,
+                         1869.2608695652175
+                    ],
+                    [
+                         1397.4782608695652,
+                         1969.2608695652175
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1088.7826086956522,
+                         1723.608695652174
+                    ],
+                    [
+                         1238.7826086956522,
+                         1830.1304347826087
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1538.782608695652,
+                         1734.4782608695652
+                    ],
+                    [
+                         1651.8260869565217,
+                         1836.6521739130435
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1649.6521739130435,
+                         1773.608695652174
+                    ],
+                    [
+                         1736.6086956521738,
+                         1847.521739130435
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         704.0,
+                         1827.9565217391305
+                    ],
+                    [
+                         764.8695652173913,
+                         1895.3478260869567
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         864.8695652173913,
+                         1825.7826086956522
+                    ],
+                    [
+                         956.1739130434783,
+                         1923.608695652174
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         895.3043478260869,
+                         1999.6956521739132
+                    ],
+                    [
+                         971.391304347826,
+                         2080.130434782609
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         780.0869565217391,
+                         2049.6956521739135
+                    ],
+                    [
+                         864.8695652173913,
+                         2130.130434782609
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         704.0,
+                         2077.956521739131
+                    ],
+                    [
+                         812.695652173913,
+                         2169.2608695652175
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         799.6521739130435,
+                         2119.2608695652175
+                    ],
+                    [
+                         943.1304347826086,
+                         2234.4782608695655
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1067.0434782608695,
+                         2171.434782608696
+                    ],
+                    [
+                         1156.1739130434783,
+                         2293.1739130434785
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1127.9130434782608,
+                         2180.130434782609
+                    ],
+                    [
+                         1210.5217391304348,
+                         2269.2608695652175
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1245.304347826087,
+                         2223.6086956521744
+                    ],
+                    [
+                         1336.6086956521738,
+                         2304.04347826087
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1284.4347826086955,
+                         2304.04347826087
+                    ],
+                    [
+                         1382.2608695652173,
+                         2382.3043478260875
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1114.8695652173913,
+                         2382.3043478260875
+                    ],
+                    [
+                         1234.4347826086955,
+                         2527.956521739131
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1380.086956521739,
+                         2491.0000000000005
+                    ],
+                    [
+                         1567.0434782608695,
+                         2664.913043478261
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         884.4347826086956,
+                         2558.3913043478265
+                    ],
+                    [
+                         1025.7391304347825,
+                         2697.521739130435
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1636.6086956521738,
+                         2404.04347826087
+                    ],
+                    [
+                         1767.0434782608695,
+                         2495.347826086957
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1706.1739130434783,
+                         2504.04347826087
+                    ],
+                    [
+                         1847.4782608695652,
+                         2610.5652173913045
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1875.7391304347825,
+                         2601.8695652173915
+                    ],
+                    [
+                         1982.2608695652173,
+                         2704.04347826087
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1580.086956521739,
+                         2275.7826086956525
+                    ],
+                    [
+                         1695.304347826087,
+                         2391.0000000000005
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1325.7391304347825,
+                         2071.434782608696
+                    ],
+                    [
+                         1436.6086956521738,
+                         2149.6956521739135
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1330.086956521739,
+                         2132.3043478260875
+                    ],
+                    [
+                         1432.2608695652173,
+                         2227.956521739131
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1371.391304347826,
+                         2208.3913043478265
+                    ],
+                    [
+                         1486.6086956521738,
+                         2323.6086956521744
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          },
+          {
+               "label": "nodule",
+               "text": "",
+               "points": [
+                    [
+                         1254.0,
+                         2067.0869565217395
+                    ],
+                    [
+                         1334.4347826086955,
+                         2162.739130434783
+                    ]
+               ],
+               "group_id": null,
+               "shape_type": "rectangle",
+               "flags": {}
+          }
+     ],
+     "imagePath": "../../images/Exp.1 - P.Grossa, 35DAE, 2017-2018, T26, R3, nodulos.jpg",
+     "imageData": null,
+     "imageHeight": 4632,
+     "imageWidth": 2608
+}
