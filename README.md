@@ -1,4 +1,4 @@
-# An Annotated Benchmark Dataset of Soybean Root Nodules for Deep Learning-Based Object Detection
+# An annotated dataset of soybean root nodules for deep learning-based object detection
 
 ## Overview
 
