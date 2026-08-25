@@ -126,4 +126,4 @@ Expected output:
 
 ## Contact
 
-For questions, issues, or contributions, please open a GitHub issue or contact us via email at <eber.pacanhela@gmail.com>.
+For questions, issues, or contributions, please open a GitHub issue or contact us via email at [fabricio@utfpr.edu.br](mailto:fabricio@utfpr.edu.br) or [eber.pacanhela@gmail.com](mailto:eber.pacanhela@gmail.com).
